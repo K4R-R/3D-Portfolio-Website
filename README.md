@@ -1,1 +1,1 @@
-This project is deployed on render [Deploy link](https://portfolio-website-f6vx.onrender.com).
+This project is deployed on netlify [Deploy link](https://3d-personal-port-folio.netlify.app).
