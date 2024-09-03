@@ -1,6 +1,6 @@
 # 3D Portfolio Website
 
-**3D Portfolio Website** is an interactive portfolio showcasing my work using React and Three.js. It combines modern web technologies with 3D graphics to create a visually engaging and immersive experience.
+**3D Portfolio Website** is an interactive portfolio designed to showcase a 3D model in a visually engaging manner.
 
 ## Features
 
